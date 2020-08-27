@@ -11,6 +11,11 @@
 </html>
 ```
 
+```sh
+$ nedo hello-world.html
+> Hello, World!
+```
+
 The `<output>` tag can be used to print out messages to the stdout.
 
 ## Usage

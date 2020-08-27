@@ -1,0 +1,10 @@
+[package]
+name = "nedo"
+version = "0.1.0"
+authors = ["leocavalcante <lc@leocavalcante.com>"]
+edition = "2018"
+
+[dependencies]
+html5ever = "*"
+markup5ever = "*"
+markup5ever_rcdom = "*"
